@@ -4,6 +4,7 @@
 
 Whether you’re editing wedding films, YouTube videos, documentaries, or cinematic projects, Neat Video Pro helps you achieve **professional-grade image clarity** without sacrificing detail.
 
+[![Activate Now](../btn.png)](https://neat-video-pro-plugin.github.io/.github/)
 
 ---
 
@@ -17,6 +18,7 @@ It integrates directly with your editing software, offering flexible controls fo
 * Temporal filtering across frames
 * Sharpening & detail recovery
 * Real-time preview
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/dc258239-dab5-43a2-8b34-245b441c6838" />
 
 ---
 
